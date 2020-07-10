@@ -2,7 +2,7 @@ import argparse
 import requests
 
 #Welcome Message                                                                                                                                                                                                 
-welcome = "Simpler Web Request to get weather by zip code in the US."
+welcome = "Simple Web Request to get weather by zip code in the US."
 
 #CLI Parser                                                                                                                                                                                                      
 parser = argparse.ArgumentParser(description=welcome)
